@@ -64,54 +64,78 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Born in 1997 in İzmir, I graduated from Ege University with a degree in Statistics. I aim to specialize in    	computer technologies, coding, and game/graphics engines. I have an excellent command of English. I 	completed my military service as a Second/Lieutenant at the Cengiz Topel Naval Air Forces Command. I hold a 	Class B driver’s license.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: B.Sc. in Statistics
-    university: Ege University
-    time: 2017 - 2022
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
     details: |
-      Studied statistical theory, data analysis, probability, regression modeling, and applied mathematics. 	Developed strong analytical and problem-solving skills, gained experience with statistical software (R, 	Python, C#, SPSS, Matlab), and worked on practical projects involving data optimization, visualization, and 	interpretation.
-       	- Worked on team-based assignments focused on real-world data sets.
-       	- Utilized optimization techniques to solve statistical and operational problems.
-  - degree: AA in Computer Programming
-    university: Anatolia University
-    time: 2023 - Present 
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
     details: |
-     Currently studying core principles of computer programming, software development, and database management. 	Gaining foundational skills in programming languages and algorithmic problem solving.
-       	- Improving analytical thinking and troubleshooting abilities.
-       	- Studying database design, SQL, and data management concepts.
-  
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
   title: Experiences
   info:
-  - role: Information Technology and Warehouse Supervisor
-    time: 2016 - 2017
-    company: Gozluk Sanayi Inc., Turkey
+  - role: Lead Developer
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
     details: |
-      Ensuring smooth coordination between inventory, reporting, and system updates.
-        - Managed inputs - Outputs and reporting processes
-        - Part-time alongside university
-  - role: Financial Security Consultant
-    time: 2023
-    company: Viennalife Pension an Life Inc., Turkey
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
     details: |
-        Provided financial security consulting services to clients, including risk assessment, pension planning, and personalized financial advice.
-        - Conducted risk assessments and financial planning for individual clients
-        - Advised on pension plans, insurance policies, and long-term investment strategies
-  - role: Measurement and Evaluation Officer
-    time: 2024 - 2025
-    company: Kocaeli Naval Air Forces Command, Turkey
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
     details: |
-      Responsible for preparing and managing examinations for students at the 
-  training center. Utilized Excel and SQL queries to organize, analyze, and 
-  report exam data, working with Oracle Database to ensure accuracy and 
-  integrity. Supported smooth execution of assessment processes as part of 
-  military service duties.
-        - Supply Lieutenant
-        - Mandatory Military Service
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 certifications:
   title: Certifications
@@ -221,18 +245,18 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Oğuz DUĞDELEN
-    email: --
-    phone: Contact information available upon request
-    role: Naval Lieutenant Colonel at Kocaeli Naval Air Forces Command, Turkey
+  - person: Yareli Perez
+    email: perezyareli@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
     recommendation: |
-      Yasin YILDIRIM is a super employee!
-  - person: Okay Çetinkaya
-    email: --
-    phone: 543 808 26 12
-    role: Staff sergeant at Kocaeli Naval Air Forces Command, Turkey
+      Alan Doe is a super employee!
+  - person: Lara Henderson
+    email: larah@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
     recommendation: |
-      I would like to work with Yasin YILDIRIM again!
+      I would like to work with Alan Doe again!
 
       He is a great employee!
 
