@@ -105,23 +105,23 @@ Supervisor
         - Part-time alongside university
   - role: Financial Security Consultant
     time: 2023
-    company: Viennalife Pension an Life Inc., London
+    company: Viennalife Pension an Life Inc., Turkey
     details: |
        Provided financial security consulting services to clients, including 
   risk assessment, pension planning, and personalized financial advice.
         - Conducted risk assessments and financial planning for individual clients
         - Advised on pension plans, insurance policies, and long-term investment strategies
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Measurement and Evaluation Officer
+    time: 2024 - 2025
+    company: Kocaeli Naval Air Forces Command, Turkey
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Responsible for preparing and managing examinations for students at the 
+  training center. Utilized Excel and SQL queries to organize, analyze, and 
+  report exam data, working with Oracle Database to ensure accuracy and 
+  integrity. Supported smooth execution of assessment processes as part of 
+  military service duties.
+        - Supply Lieutenant
+        - Mandatory Military Service
 
 certifications:
   title: Certifications
@@ -231,18 +231,16 @@ publications:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Oğuz DUĞDELEN
+    phone: Contact information available upon request
+    role: Naval Lieutenant Colonel at Kocaeli Naval Air Forces Command, Turkey
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      Yasin YILDIRIM is a super employee!
+  - person: Okay Çetinkaya
+    phone: 543 808 26 12
+    role: Staff sergeant at Kocaeli Naval Air Forces Command, Turkey
     recommendation: |
-      I would like to work with Alan Doe again!
+      I would like to work with Yasin YILDIRIM again!
 
       He is a great employee!
 
