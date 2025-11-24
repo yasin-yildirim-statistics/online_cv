@@ -72,16 +72,16 @@ education:
     university: Ege University
     time: 2017 - 2022
     details: |
-      Studied statistical theory, data analysis, probability, regression modeling, and applied mathematics. Developed strong analytical and problem-solving skills, gained experience with statistical software (R, 	Python, C#, SPSS, Matlab), and worked on practical projects involving data optimization, visualization, and interpretation.
-       	- Worked on team-based assignments focused on real-world data sets.
-       	- Utilized optimization techniques to solve statistical and operational problems.
+      Studied statistical theory, data analysis, probability, regression modeling, and applied mathematics. Developed strong analytical and problem-solving skills, gained experience with statistical software (R, Python, C#, SPSS, Matlab), and worked on practical projects involving data optimization, visualization, and interpretation.
+      - Worked on team-based assignments focused on real-world data sets.
+      - Utilized optimization techniques to solve statistical and operational problems.
   - degree: AA in Computer Programming
     university: Anatolia University
     time: 2023 - Present 
     details: |
      Currently studying core principles of computer programming, software development, and database management. Gaining foundational skills in programming languages and algorithmic problem solving.
-        - Improving analytical thinking and troubleshooting abilities.
-        - Studying database design, SQL, and data management concepts.
+      - Improving analytical thinking and troubleshooting abilities.
+      - Studying database design, SQL, and data management concepts.
   
 
 experiences:
