@@ -128,9 +128,9 @@ certifications:
   - name: SQL Query
     start: 2025
     end:
-    organization: Pendik Competence Development and Employment Center
+    organization: Pendik Competence Development and Employment Center - Techcareer
     credentialid: 
-    credentialurl: www.techcareer.net
+    credentialurl: https://yetgim.com.tr/
     credentialname: Yetgim
     details: |
       Completed comprehensive SQL training focused on PostgreSQL. 
@@ -145,7 +145,7 @@ projects:
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: The Labyrinth
-    link: "#https://drive.google.com/drive/folders/1CyKCp4bxD637Ig1S6w2LsEmGCNo1fkDw?usp=drive_link"
+    link: "https://drive.google.com/drive/folders/1CyKCp4bxD637Ig1S6w2LsEmGCNo1fkDw?usp=drive_link"
     tagline: "A maze that symbolizes personal character and experiences to help HR select the right candidate in a game way.
       Maded for Tech Game Hackathon; AI Challange."
 
