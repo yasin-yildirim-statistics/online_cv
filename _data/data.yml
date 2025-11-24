@@ -116,52 +116,38 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Tech Game Hackathon; AI Challange
+    start: 2023
+    end: 
+    organization: Techcareer
+    credentialid: 
+    credentialurl: www.techcareer.net
+    credentialname: gamfed
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+      Techcareer Special Award in Competition and Hackathon Participation Certificate
+  - name: SQL Query
+    start: 2025
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Pendik Competence Development and Employment Center
+    credentialid: 
+    credentialurl: www.techcareer.net
+    credentialname: Yetgim
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Completed comprehensive SQL training focused on PostgreSQL. 
+      Worked extensively with DBeaver and DataGrip for database management and query development. 
+      Designed relational schemas using DrawSQL and collaborated through GitHub and CodeShare.
+      Integrated Supabase to connect the database with frontend applications and used Bolt.new to build a functional web interface from structured data. 
+      Gained strong proficiency in fundamental and advanced SQL query types.
 
 projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: The Labyrinth
+    link: "#https://drive.google.com/drive/folders/1CyKCp4bxD637Ig1S6w2LsEmGCNo1fkDw?usp=drive_link"
+    tagline: "A maze that symbolizes personal character and experiences to help HR select the right candidate in a game way.
+      Maded for Tech Game Hackathon; AI Challange."
 
   - title: DevStudio
     link: "#"
