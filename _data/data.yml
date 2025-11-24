@@ -64,7 +64,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Born in 1997 in İzmir, I graduated from Ege University with a degree in Statistics. I aim to specialize in    	computer technologies, coding, and game/graphics engines. I have an excellent command of English. I 	completed my military service as a Second/Lieutenant at the Cengiz Topel Naval Air Forces Command. I hold a 	Class B driver’s license.
+    Born in 1997 in İzmir, I graduated from Ege University with a degree in Statistics. I aim to specialize in computer technologies, coding, and game/graphics engines. I have an excellent command of English. I completed my military service as a Second/Lieutenant at the Cengiz Topel Naval Air Forces Command. I hold a Class B driver’s license.
 education:
   title: Education
   info:
@@ -72,16 +72,16 @@ education:
     university: Ege University
     time: 2017 - 2022
     details: |
-      Studied statistical theory, data analysis, probability, regression modeling, and applied mathematics. 	Developed strong analytical and problem-solving skills, gained experience with statistical software (R, 	Python, C#, SPSS, Matlab), and worked on practical projects involving data optimization, visualization, and 	interpretation.
+      Studied statistical theory, data analysis, probability, regression modeling, and applied mathematics. Developed strong analytical and problem-solving skills, gained experience with statistical software (R, 	Python, C#, SPSS, Matlab), and worked on practical projects involving data optimization, visualization, and interpretation.
        	- Worked on team-based assignments focused on real-world data sets.
        	- Utilized optimization techniques to solve statistical and operational problems.
   - degree: AA in Computer Programming
     university: Anatolia University
     time: 2023 - Present 
     details: |
-     Currently studying core principles of computer programming, software development, and database management. 	Gaining foundational skills in programming languages and algorithmic problem solving.
-       	- Improving analytical thinking and troubleshooting abilities.
-       	- Studying database design, SQL, and data management concepts.
+     Currently studying core principles of computer programming, software development, and database management. Gaining foundational skills in programming languages and algorithmic problem solving.
+        - Improving analytical thinking and troubleshooting abilities.
+        - Studying database design, SQL, and data management concepts.
   
 
 experiences:
@@ -107,7 +107,7 @@ experiences:
     details: |
       Responsible for preparing and managing examinations for students at the 
   training center. Utilized Excel and SQL queries to organize, analyze, and 
-  report exam data, working with Oracle Database to ensure accuracy and 
+  report exam data, working with Oracle Database to ensure accuracy and
   integrity. Supported smooth execution of assessment processes as part of 
   military service duties.
         - Supply Lieutenant
